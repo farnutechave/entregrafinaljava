@@ -1,0 +1,8 @@
+[
+    {"id": "1", "nombre": "Plan Oro", "precio": "15000", "cantidad":"1", "descripcion": "Personalizado", "img": "./img/personalizado.png"},
+    {"id": "2", "nombre": "Plan Plata", "precio": "10000", "cantidad":"1", "descripcion": "Semi Personalizado", "img": "./img/semipersonalizado.jpg"},
+    {"id": "3", "nombre": "Plan Bronce", "precio": "9500", "cantidad":"1", "descripcion": "No Personalizado", "img": "./img/nopersonalizado.jpg"},
+    {"id": "4", "nombre": "zapatillas", "precio": "10000", "cantidad":"1", "descripcion": "Fila", "img": "./img/fila.jpg"},
+    {"id": "5", "nombre": "Paletas", "precio": "9000", "cantidad":"1", "descripcion": "Vairo", "img": "./img/paleta.jpg"},
+    {"id": "6", "nombre": "Remeras", "precio": "12000", "cantidad":"1", "descripcion": "Adidas", "img": "./img/remeraadidas.jpg"}
+]
